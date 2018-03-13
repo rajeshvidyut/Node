@@ -1,0 +1,18 @@
+{
+  "name": "nodekb",
+  "version": "1.0.0",
+  "description": "Simple Knowledge Base App",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "author": "Rajesh",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "bower": "^1.8.2",
+    "express": "^4.16.2",
+    "mongoose": "^4.13.9",
+    "pug": "^2.0.0-rc.4"
+  }
+}
